@@ -2,7 +2,7 @@
   "name": "student-notice-board",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "react": "^19.2.6",
     "cors": "^2.8.6",
     "express": "^5.2.1",
     "react-dom": "^19.2.6"
